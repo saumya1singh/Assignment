@@ -1,6 +1,6 @@
-#Contributors 
+#Contributors
 
-- Saumya [ Btech Done, Corporate Majdoor, Free mein padha bhi deti huin ] 
+- Saumya [ Btech Done, Corporate Majdoor, Free mein padha bhi deti huin ]
 
 - Vishal Kumar [ Assignment Complete, Thanks Saumya di for this series. ]
 Deepjyoti saha [ Assignment completed ]
@@ -10,3 +10,4 @@ Deepjyoti saha [ Assignment completed ]
 -suraj singh[BE computer student , lots of love from Nepal.]
 
 - Sanket Hanchate [ Assignment Complete, Thanks Saumya di for this series, Your teaching is best.]
+-[Elliot][First Contribution.]
