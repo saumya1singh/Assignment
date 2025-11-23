@@ -1,0 +1,145 @@
+[33mcommit 412e5b38fe48fa512944972a5dc81a36d2fde161[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mShubhamBranch[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 6b0abc0 a6490cc
+Author: Saumya Singh <saumyatheengineer@gmail.com>
+Date:   Mon Nov 3 19:30:41 2025 +0530
+
+    Merge pull request #42 from AditiHub753/assignment2
+    
+    Assignment2
+
+[33mcommit a6490cc13751ade11f71a2c59dd32ef922c9066b[m
+Author: AditiHub753 <agup2212@gmail.com>
+Date:   Mon Nov 3 14:44:41 2025 +0530
+
+    file updated again
+
+[33mcommit 095dffd955dbe5a1e2b496f728c95fc03e18641d[m
+Author: AditiHub753 <agup2212@gmail.com>
+Date:   Mon Nov 3 14:33:00 2025 +0530
+
+    assignment completed
+
+[33mcommit 6b0abc006187fa5624da009d487ae2a01fe76055[m
+Merge: 1f54cff 51052ed
+Author: Saumya Singh <saumyatheengineer@gmail.com>
+Date:   Tue Oct 28 10:00:24 2025 +0530
+
+    Merge pull request #25 from h0miez4evr/suraj
+    
+    something added.
+
+[33mcommit 51052ed6050b41b9c048ae8ce98e791d8e835614[m
+Merge: c68c591 1f54cff
+Author: Saumya Singh <saumyatheengineer@gmail.com>
+Date:   Tue Oct 28 10:00:16 2025 +0530
+
+    Merge branch 'master' into suraj
+
+[33mcommit 1f54cff0a709ea89c5133afbc3c177f8ff97145a[m
+Merge: 058f7b3 3a7e939
+Author: Saumya Singh <saumyatheengineer@gmail.com>
+Date:   Tue Oct 28 09:59:06 2025 +0530
+
+    Merge pull request #26 from sanket-hanchate/sanketBranch
+    
+    Adding Sanket as Contributer
+
+[33mcommit 058f7b359dfb6d7fa3c5ce7d58d275a1deb7dc2c[m
+Merge: d3acbdf fdb8a42
+Author: Saumya Singh <saumyatheengineer@gmail.com>
+Date:   Tue Oct 28 09:58:25 2025 +0530
+
+    Merge pull request #27 from Deepjyoti-coder/branchdeep
+    
+    adding deep as contributor
+
+[33mcommit fdb8a428dd107e9cf37193433b86d45690863601[m
+Merge: fb9af8b d3acbdf
+Author: Saumya Singh <saumyatheengineer@gmail.com>
+Date:   Tue Oct 28 09:58:15 2025 +0530
+
+    Merge branch 'master' into branchdeep
+
+[33mcommit d3acbdf1b8249ac458c2d8c5c5e9b8d3fd5cb05a[m
+Merge: a7f58a8 5300db5
+Author: Saumya Singh <saumyatheengineer@gmail.com>
+Date:   Tue Oct 28 09:57:33 2025 +0530
+
+    Merge pull request #28 from Apu1231/addingBranch
+    
+    Adding Apurba Biswas as a contributor
+
+[33mcommit 5300db5e1fd071cb94dd0757bfdd695788e7d5ed[m
+Author: Apu1231 <apuba220923@gmail.com>
+Date:   Tue Oct 28 09:31:17 2025 +0530
+
+    Adding Apurba Biswas as a contributor
+
+[33mcommit fb9af8ba5a5a624b252783433dce2164608c1008[m
+Author: Deepjyoti-coder <deepjyotis373@gmail.com>
+Date:   Tue Oct 28 00:22:42 2025 +0530
+
+    adding deep as contributor
+
+[33mcommit 3a7e93986dcb392eee3bcf1d23cb7f8e413abd65[m
+Author: sanket-hanchate <sankethanchate18@gmail.com>
+Date:   Mon Oct 27 21:17:10 2025 +0530
+
+    Adding Sanket as Contributer
+
+[33mcommit c68c5917e3f26dc448b6c8a5c79b934e496e18a5[m
+Author: suraj singh <singhsurajbhai098765@gmail.com>
+Date:   Mon Oct 27 07:14:52 2025 +0545
+
+    something added.
+
+[33mcommit a7f58a88c13a0837fb6eb71ff5cb1dba740f97d8[m
+Merge: 9994080 0496c47
+Author: Saumya Singh <saumyatheengineer@gmail.com>
+Date:   Tue Sep 9 20:28:42 2025 +0530
+
+    Merge pull request #1 from Aditya90456/master
+    
+    Assignment is done
+
+[33mcommit 99940800128644eb9e7db75a505711702225b542[m
+Merge: 9cd4991 feb5651
+Author: Saumya Singh <saumyatheengineer@gmail.com>
+Date:   Tue Sep 9 20:27:43 2025 +0530
+
+    Merge pull request #17 from pratiksha-more/practice
+    
+    Practice commit
+
+[33mcommit feb56519fe0cad853e8fad22cfdb81762fb82c02[m
+Author: pratiksha-more <pratikshamore077@gmail.com>
+Date:   Fri Aug 29 23:16:42 2025 +0530
+
+    Practice commit
+
+[33mcommit 9cd49916de1c9f86e668d242a17df49d1afafc23[m
+Merge: 8747611 9c4c0fc
+Author: Saumya Singh <saumyatheengineer@gmail.com>
+Date:   Fri May 23 11:43:24 2025 +0530
+
+    Merge pull request #3 from vishalprasad1912/contributorBranch
+    
+    Added my name as Contributor
+
+[33mcommit 9c4c0fc8842483b93ca9c8f01eb939abeb216127[m
+Author: Vishal Kumar <vishalprasad7851@gmail.com>
+Date:   Thu May 22 14:55:08 2025 +0530
+
+    Added my name as Contributor
+
+[33mcommit 0496c47910231547b2375cf1b94f66eb53243789[m
+Author: Aditya Bakshi <153073510+Aditya90456@users.noreply.github.com>
+Date:   Wed May 21 19:57:18 2025 +0530
+
+    gfg
+
+[33mcommit 874761164b4f8369003e0e5ba899fdcf1634a857[m
+Author: Saumya Singh <saumyatheengineer@gmail.com>
+Date:   Tue May 20 08:11:45 2025 +0530
+
+     Adding Saumya Name
